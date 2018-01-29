@@ -1,0 +1,72 @@
+/* ÐžÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð±Ð»Ð¾Ðº */
+.owl-wrapper-outer {
+    border: 1px solid #777;
+    border-radius: 5px;
+    overflow: hidden;
+    background: white;
+}
+
+/* 1 ÐºÐ²Ð°Ð´Ñ€Ð°Ñ‚Ð¸Ðº ÐºÐ°Ñ€ÑƒÑÐµÐ»Ð¸ */
+.carousel-element {
+    padding: 30px;
+    text-align: center;
+    font-size: 300%;
+    border-right: 1px solid #777;
+}
+
+/* Ð‘Ð»Ð¾Ðº Ñ Ñ‚Ð¾Ñ‡ÐºÐ°Ð¼Ð¸ */
+.owl-pagination {
+    text-align: center; /* Ð’Ñ‹Ñ€Ð°Ð²Ð½Ð¸Ð²Ð°ÐµÐ¼ Ñ‚Ð¾Ñ‡ÐºÐ¸ Ð¿Ð¾-ÑÐµÑ€ÐµÐ´Ð¸Ð½Ðµ */
+}
+/* 1 Ð¢Ð¾Ñ‡ÐºÐ° */
+.owl-page {
+    width: 10px;
+    height: 10px;
+    border: 1px solid #777;
+    display: inline-block;
+    background: white;
+    margin: 10px;
+    border-radius: 5px;
+}
+/* ÐÐºÑ‚Ð¸Ð²Ð½Ð°Ñ Ñ‚Ð¾Ñ‡ÐºÐ° */
+.owl-page.active {
+    background: #777;
+}
+
+
+
+/* ----------------------------------------------------------- */
+
+
+
+
+
+
+body {
+    background: #f1f1f1;
+    margin: 0 100px 100px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.article-link {
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+a {
+    color: #3e526b;
+}
+a:hover {
+    color: rgba(51, 51, 51, 0.7);
+    text-decoration: none;
+}
+
+
+
